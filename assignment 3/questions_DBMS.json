@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Standard Query Language"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which normal form eliminates repeating groups?",
+    "options": ["1NF", "2NF", "3NF", "BCNF"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which command is used to remove a table?",
+    "options": ["DELETE TABLE", "DROP TABLE", "REMOVE TABLE", "ERASE TABLE"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which one is a NoSQL database?",
+    "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+    "answer_index": 2
+  },
+  {
+    "question": "What is a primary key?",
+    "options": ["A key that can be null", "A candidate key that uniquely identifies rows", "A foreign key", "An index"],
+    "answer_index": 1
+  }
+]

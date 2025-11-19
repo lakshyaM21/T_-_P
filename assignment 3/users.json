@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "password": "admin123",
+    "name": "Administrator",
+    "email": "",
+    "branch": "",
+    "year": "",
+    "contact": "",
+    "enrollment": "0000"
+  },
+  "as": {
+    "password": "qw",
+    "name": "asd",
+    "email": "assdd",
+    "branch": "asdd",
+    "year": "asdd",
+    "contact": "asdd",
+    "enrollment": "asdd"
+  }
+}

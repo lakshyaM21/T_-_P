@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which data structure uses FIFO?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer_index": 1
+  },
+  {
+    "question": "What is the best case time complexity of QuickSort?",
+    "options": ["O(n^2)", "O(n log n)", "O(log n)", "O(n)"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which traversal visits left, root, right?",
+    "options": ["Preorder", "Inorder", "Postorder", "Level order"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which data structure is used in recursion?",
+    "options": ["Queue", "Stack", "Heap", "Hash Table"],
+    "answer_index": 1
+  }
+]
